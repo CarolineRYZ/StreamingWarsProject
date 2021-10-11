@@ -16,7 +16,7 @@ JDK: JAVA 11 JDK
 Instruction:
 
 1. Open Terminal (Command Prompt of Windows)
-2. Change disk to the root directory of the project (example: .../6310SAD-group78)
+2. Change disk to the root directory of the project (example: .../StreamingWarsProject)
 3. Input "java -jar StreamingWars_team78.jar" in terminal to execute the jar file
 4. It is ready to go
 
